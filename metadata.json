@@ -1,0 +1,6 @@
+{
+  "name": "Explainable Healthcare Transformer",
+  "description": "An explainable transformer-based system for multi-modal healthcare prediction, feature fusion, SHAP analysis, and clinical decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
